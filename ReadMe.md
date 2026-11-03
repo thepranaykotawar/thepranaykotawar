@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Pranay!<br><br>💻 Computer Science & Engineering Student | Aspiring Java Backend Developer<br><br>I'm passionate about building practical applications, solving problems, and exploring new technologies.<br><br>🚀 What I Do<br><br>- Develop applications using Java and Python.<br>- Explore Backend Development with Spring Boot, Hibernate, and REST APIs.<br>- Work with databases, Firebase, and Supabase.<br>- Practice Data Structures and Algorithms.<br>- Build projects that solve real-world problems.<br><br>🛠️ Tech Stack<br><br>- Languages: Java, Python, C<br>- Backend: Spring, Spring Boot, Hibernate, REST APIs<br>- Database: MySQL, Firebase, Supabase<br>- Tools: Git, GitHub, VS Code, Android Studio<br><br>🌱 Currently Learning<br><br>- Advanced Java & Spring Boot<br>- Data Structures and Algorithms<br>- Backend System Design<br><br>🎯 Goal: To become a skilled Software Engineer and build impactful software solutions.<br><br>🤝 Always open to learning, collaborating, and contributing to interesting projects!<br><br>📫 Let's connect and build something amazing!
+👋 Hi, I'm Pranay!<br><br>💻 Computer Science & Engineering Student | Aspiring Java Backend Developer<br><br>passionate aboute building applications, solving problems, and exploring new technologies.
 
 
 ## 🌐 Socials:
