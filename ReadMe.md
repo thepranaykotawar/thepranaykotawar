@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Pranay Kotawar. <br><br>💻 Computer Science & Engineering Student | Aspiring Java Backend Developer<br><br>passionate aboute building applications, solving problems, and exploring new technologies.
+👋 Hi, I'm Pranay Kotawar. <br><br>💻 Computer Science & Engineering Student | Aspiring Java Backend Developer<br><br>passionate about building applications, solving problems, and exploring new technologies.
 
 
 ## 🌐 Socials:
