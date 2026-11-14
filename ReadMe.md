@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Pranay!<br><br>💻 Computer Science & Engineering Student | Aspiring Java Backend Developer<br><br>passionate aboute building applications, solving problems, and exploring new technologies.
+👋 Hi, I'm Pranay Kotawar. <br><br>💻 Computer Science & Engineering Student | Aspiring Java Backend Developer<br><br>passionate aboute building applications, solving problems, and exploring new technologies.
 
 
 ## 🌐 Socials:
@@ -11,5 +11,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=thepranaykotawar&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=thepranaykotawar&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=thepranaykotawar&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
